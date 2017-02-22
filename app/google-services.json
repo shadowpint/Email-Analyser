@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "696469084474",
+    "firebase_url": "https://email-analyser.firebaseio.com",
+    "project_id": "email-analyser",
+    "storage_bucket": "email-analyser.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696469084474:android:f64ffcf36642385e",
+        "android_client_info": {
+          "package_name": "com.examenigma.technex.emailanalyser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696469084474-fbga6d6fbsf6msn72b0gl7lnd338pi98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLs23hELnRb-jeUwD_huP4n0w5FJPSU48"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

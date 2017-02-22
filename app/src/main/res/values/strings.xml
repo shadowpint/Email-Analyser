@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Email Analyser</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+
+    <string name="response">Response</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_login">Log in</string>
+    <string name="menu_logout">Log out</string>
+    <string name="login_label">Log In</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="send_text">Send</string>
+
+    <string name="title_sign_in">Welcome</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="search">Search in mail</string>
+    <string name="predict">Search</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="ToDate">ToDate</string>
+    <string name="FromDate">FromDate</string>
+    <string name="HasAttachments">HasAttachments</string>
+    <string name="AttachmentType">AttachmentType</string>
+    <string name="AttachmentSize">AttachmentSize</string>
+    <string name="AttachmentName">AttachmentName</string>
+    <string name="Subject">Subject</string>
+    <string name="CC">CC</string>
+
+
+</resources>
